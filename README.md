@@ -37,18 +37,18 @@ I am known for being a **Problem Solver** who unblocks teams, clarifies complexi
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typscript](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![rust](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=rust&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Cloud & Dev
 
-![gcp](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=gcp&logoColor=F7DF1E)
-![azure](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=azure&logoColor=F7DF1E)
+![gcp](https://img.shields.io/badge/GCP-232F3E?style=for-the-badge&logo=gcp&logoColor=F7DF1E)
+![azure](https://img.shields.io/badge/Azure-3776AB?style=for-the-badge&logo=azure&logoColor=F7DF1E)
 ![docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Blockchain & Data
 
-![evm-blockchains](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=evm&logoColor=F7DF1E)
-![ssi & digital Identity](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=SSI&logoColor=F7DF1E)
+![evm-blockchains](https://img.shields.io/badge/EVM-232F3E?style=for-the-badge&logo=evm&logoColor=F7DF1E)
+![ssi & digital Identity](https://img.shields.io/badge/SSI-232F3E?style=for-the-badge&logo=SSI&logoColor=F7DF1E)
 
 ---
 
