@@ -1,3 +1,4 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Javi%20Cabello%20🧠%20%7C%20Lead%20Engineer%20🤔&width=800&height=110)](https://www.linkedin.com/in/javier-cabello-laguna/)
 # Javi Cabello — Lead Engineer | Problem Solver
 
 ## 👋 Hi there!
