@@ -1,13 +1,9 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Javi%20Cabello%20🧠%20%7C%20Lead%20Engineer%20🤔&width=800&height=110)](https://www.linkedin.com/in/javier-cabello-laguna/)
-# Javi Cabello — Lead Engineer | Problem Solver
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Javi%20Cabello%20🧠%20%7C%20Lead%20Blockchain%20and%20SSI%20Engineer%20🤔&width=800&height=110)](https://www.linkedin.com/in/javier-cabello-laguna/)
 
-## 👋 Hi there!
-
-I'm Javi, a Tech Lead focused on building scalable, resilient, and future‑ready systems. My work bridges cutting‑edge technologies across **Blockchain**, **Agentic AI**, and **Digital Identity**, always with a strong emphasis on maintainability, performance, and engineering excellence.
-
----
+# 👋 Hi there! I'm Javi
 
 ## 🚀 About Me
+Lead Blockchain and SSI Engineer focused on building scalable, resilient, and future‑ready systems. My work bridges cutting‑edge technologies across **Blockchain**, **Agentic AI**, and **Digital Identity**, always with a strong emphasis on maintainability, performance, and engineering excellence.
 
 As a Tech Lead, I have led projects for both fast‑moving startups and large enterprises, designing solutions that balance innovation with operational robustness. I specialize in:
 
